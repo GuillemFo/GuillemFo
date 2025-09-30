@@ -20,17 +20,26 @@ Curiosity and play fuel my creativity in code and beyond.
 **Languages:** C, C++, Bash, TypeScript  
 **Tools:** Git, Make, GDB, Docker  
 **Concepts:** System Programming, Multithreading, Networking, OOP, Algorithms, Data Structures  
-**Frameworks & Libraries:** [MiniLibX](https://github.com/42Paris/minilibx), [Tailwindcss](https://github.com/tailwindlabs/tailwindcss)  
+**Frameworks & Libraries:** [MiniLibX](https://github.com/42Paris/minilibx), [Tailwindcss](https://github.com/tailwindlabs/tailwindcss)    
+
+
+
+---
 
 **Learning:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![...and more!](https://img.shields.io/badge/...and%20more!-6f42c1?style=for-the-badge&logoColor=white&colorB=28a745)
+
+
+
 
 ---
 
 ## 🌟 GitHub Stats
 ![Guillem's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillemFo&theme=merko)  
-![Guillem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillemFo&show_icons=true&theme=merko)
+![Guillem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillemFo&show_icons=true&theme=merko)  
+<sub>***Psst… some projects are still private. Stay tuned for future updates!***</sub> 
 
 ---
 
