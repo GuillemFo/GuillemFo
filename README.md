@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Guillem Forns
+# 👋 Hi, I'm Guillem Forns  
 
-Welcome to my GitHub! I’m a developer who loves **problem-solving** and building projects that make an impact. My work spans **system programming, algorithms, application development**, and **modern web development with TypeScript**.
+I'm a developer **fascinated by problem-solving** and creating projects that **make an impact**.  
+From **system programming and algorithms** to **application development** and **modern TypeScript web apps**, I thrive on challenges that push me to **learn, grow, and explore new ideas**.  
 
-I started my journey at **42**, and along the way, I’ve honed my skills in **C, C++, Unix-based development**, and **TypeScript**, always eager to learn and tackle new challenges.
+My journey began at **42**, where I built a solid foundation in **C, C++, and Unix-based development**.  
+Since then, I've embraced every opportunity to **expand my skills, experiment with new technologies**, and take on projects that **stretch my limits**.  
 
 When I’m not coding, you’ll find me:  
 ✈️ Flying **RC planes**  
@@ -20,11 +22,9 @@ Curiosity and play fuel my creativity in code and beyond.
 **Concepts:** System Programming, Multithreading, Networking, OOP, Algorithms, Data Structures  
 **Frameworks & Libraries:** [MiniLibX](https://github.com/42Paris/minilibx), [Tailwindcss](https://github.com/tailwindlabs/tailwindcss)  
 
-**Learning & Fun Badges:**  
+**Learning:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![RC Planes](https://img.shields.io/badge/RC_Planes-Flying-blue?style=for-the-badge)  
-![Rubik's Cube](https://img.shields.io/badge/Rubik's_Cube-Fun-orange?style=for-the-badge)  
 
 ---
 
