@@ -51,9 +51,9 @@ I’m open to discussions, collaborations, and feedback!
 - 📧 **Email:** guillem.fo@gmail.com  
 
 ---
-```
-Under dev   
+
 ### 🌐 Portfolio
 
 Check out my personal website for more info about my projects and journey.
-```
+<sub>***Under dev***</sub>   
+
