@@ -17,10 +17,10 @@ Curiosity and play fuel my creativity in code and beyond.
 
 ## 🛠️ Technologies & Skills
 
-**Languages:** C, C++, Bash, TypeScript  
-**Tools:** Git, Make, GDB, Docker  
+**Languages:** C, C++, Bash, TypeScript, JavaScript  
+**Tools:** Git, Make, GDB, Valgrind, LLDB, Docker  
 **Concepts:** System Programming, Multithreading, Networking, OOP, Algorithms, Data Structures  
-**Frameworks & Libraries:** [MiniLibX](https://github.com/42Paris/minilibx), [Tailwindcss](https://github.com/tailwindlabs/tailwindcss)    
+**Frameworks & Libraries:** [MiniLibX](https://github.com/42Paris/minilibx), [Tailwindcss](https://github.com/tailwindlabs/tailwindcss)     
 
 
 
