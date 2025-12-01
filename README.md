@@ -52,8 +52,9 @@ I’m open to discussions, collaborations, and feedback!
 
 ---
 
+<sub>
 ### 🌐 Portfolio
 
 Check out my personal website for more info about my projects and journey.
-<sub>***Under dev***</sub>   
+***Under dev***</sub>   
 
