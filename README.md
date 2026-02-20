@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guillem Forns  
 
-I'm a developer **fascinated by problem-solving** and creating projects that make an impact and **help people**.  
+I'm a developer **fascinated by challenges** and creating projects that make an impact and **help people**.  
 From **system programming and algorithms** to **application development** and **modern web apps**.  
 I love a good challenge—it's what pushes me to **learn, grow, and explore new ideas**.  
 
