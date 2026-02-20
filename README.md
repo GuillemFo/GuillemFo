@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Guillem Forns  
 
-I'm a developer **fascinated by challenges** and creating projects that make an impact and **help people**.  
-From **system programming and algorithms** to **application development** and **modern web apps**.  
-I love a good challenge—it's what pushes me to **learn, grow, and explore new ideas**.  
+I'm a developer **fascinated by challenges** and creating projects that **make an impact and help people**.  
+Whether it's **system programming** and **algorithms** or **application development** and **modern web apps**.  
+I'm all in. **I love a good challenge**—it's what pushes me to **learn, grow, and explore new ideas**.  
 
-My journey began at **42**, where I built a solid foundation in **C, C++, and Unix-based development**.  
-Since then, I've used every opportunity to **expand my skills, experiment with new technologies**, and take on projects that **stretch my limits**.  
+My journey began at **42 Barcelona**, where I built a solid foundation in **C**, **C++**, and **Unix-based development**.  
+Since then, I've taken every opportunity to **expand my skills**, experiment with **new technologies**, and take on **projects that stretch my limits**.  
 
 When I’m not coding, you’ll find me:  
 ✈️ Flying **RC planes**  
