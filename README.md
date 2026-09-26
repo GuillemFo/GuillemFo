@@ -1,7 +1,7 @@
 # Hi, Wil here 👋
 
 Im a junior developer that likes to know how things work, debug and solve problems.     
-I studied at 42 School where i spent most of my time working on low level programming, debugging strange issues and building projects with other students. I enjoy understanding how things work and building reliable software that is properly tested and edge case protected.
+I studied at 42 School where i spent most of my time working on low level programming, debugging issues and building projects with other students. I enjoy understanding how things work and building reliable software that is properly tested and edge case protected.
 
 ---
 
@@ -49,7 +49,7 @@ This project was challenging but also one of the most rewarding.
 A small 3D raycasting engine inspired by early FPS games.
 
 **My contributions:**
-- Most of the engine except raycasting math  
+- Most of the engine 
 - Window management and rendering loop  
 - Map parsing and game logic  
 - Input handling  
