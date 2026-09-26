@@ -1,9 +1,7 @@
-# Hi, Guillem here 👋
+# Hi, Wil here 👋
 
-Im a junior developer that likes to know how things work, debug and solve problems.   
-```Fun fact: printf output can be lost if the program crashes before the buffer flushes```:smile:
-   
-I studied at 42 School where i spent most of my time working on low level programming, debugging strange issues and building projects with other students. I enjoy understanding how things work and building reliable software that is propperly tested and edge case protected.
+Im a junior developer that likes to know how things work, debug and solve problems.     
+I studied at 42 School where i spent most of my time working on low level programming, debugging strange issues and building projects with other students. I enjoy understanding how things work and building reliable software that is properly tested and edge case protected.
 
 ---
 
@@ -104,8 +102,3 @@ Right now im exploring:
 🧩 Solving Rubik’s cubes  
 
 ---
-
-# 📬 Contact
-
-📩 Email: guillem.fo@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/guillem-forns
